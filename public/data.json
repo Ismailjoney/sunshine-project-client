@@ -1,74 +1,35 @@
-[
-    {
-        "job_name" :"Software Engineer Intern",
-        "job_location":"Bengaluru, Karnataka, India On-site ",
-        "job_time":"Internship",
-        "employes": "3000-5000 employes",
-        "job_description":"ClearFeed aims to bridge the gap between multiple tools we use at our workplace and make it a lot easier to deal with them. Our small team is based out of Bangalore and welcoming in nature. We are backed by a leading Venture Capital firm and well-known Angels.",
-        "skills":"Thorough understanding of React.js and its corn.principles.Willingness to learn new frameworks and languages where required.Interest and ability to work across the stack.Familiarity with Server Side Rendering (SSR).Must have good written and oral communication skills, be a fast learner and have the ability to adapt quickly to a fast-paced development environment. "
-    },
-    {
-        "job_name" :"Front End developer",
-        "job_location":"Chittagong Bangladesh",
-        "job_time":"internship",
-        "employes": "700-1000",
-        "job_description":"We offer our Community Builders a wide range of benefits to suit their needs. Opportunity. We have many clients who want more from us than we can currently deliver, which creates a massive opportunity for our community builders. Commission. We are changing the recruitment model and, as part of that, are happy to share more of the pie; we’ll beat your current scheme. Package. Build a package that’s important to you — more holidays, four day weeks, flex hours, etc. We can design the right individual package for the right community builders. Growth. We achieved a seven-figure turnover in year one and expect to triple that in 2022. We’re at the start of the hockey stick. At Transparent, we're committed to being a flexible place to work. We are pushing the boundaries of flexibility in the recruitment space. ",
-        "skills":"next js javascript,react js,Angular and Typescript"
-    },
-    {
-        "job_name" :"Front End Developer",
-        "job_location":"Mosko,Russia",
-        "job_time":"contract",
-        "employes": "200-700 employees",
-        "job_description":"You’ll be part of our Front-end team, where we build the client-side of our web applications by translating UI/UX design wireframes into a user-centric web experience. We advocate for our client's needs and we collaborate with other teams to implement an engaging user interface for our trading platforms.As a Front-end Developer at Deriv, you’ll build powerful front-end systems with an improved user experience for our clients worldwide. You’ll be heavily involved in the design and development phases of our applications as we aim to create the best online trading platform in the industry.",
-        "skills":"html,css,js react js, javascript, Angular,vue"
-    },
-    {
-        "job_name" :"Software Engineer (Frontend Developer)",
-        "job_location":"Dhaka, Dhaka, Bangladesh On-site ",
-        "job_time":"Full-time · Entry level",
-        "employes": "501-1,000 employees",
-        "job_description":"Augmedix is on a mission to help clinicians and patients form a human connection at the point of care without the intrusion of technology. Augmedix’s solutions extract data from natural physician-patient conversations and convert it to medical notes in real time, which are seamlessly transferred to the EHR. To achieve this, the company’s Ambient Automation Platform uses Automated Speech Recognition and Natural Language Processing, supported by medical documentation specialists.",
-        "skills":"html,css,js react,Angular,vue and Typescript"
-    },
-    {
-        "job_name" :"Front End Webdeveloper",
-        "job_location":"Dhaka, Dhaka, Bangladesh On-site",
-        "job_time":"11-50 employees",
-        "employes": "11-50 employees",
-        "job_description":"Job Context: Reserveit BD is looking for a responsible iOS Developer for the development and maintenance of applications aimed at a range of IOS devices including mobile phones and tablets. The iOS Developer will work closely with our development team to review, analyze, and evaluate business systems. ",
-        "skills":" Bachelor’s degree in computer science or software engineering. • 1+ year of professional experience in IOS development. • Proficient Swift UI, UI kit, and Objective-C knowledge are preferred. • Extensive experience with iOS frameworks such as Core Data and Core Animation. • Knowledge of Apple’s design principles and application interface guidelines. • Proficient in code versioning tools, including GitHub and Bitbucket • Experience with continuous integration and responsive design. • Knowledge of unit testing is a plus. Job Location: Lalmatia, Dhaka Employment Status: Full Time. Salary: Negotiable, depending on experience. Compensation and Other Benefits: As per company policy. Apply Instruction: Please send your CV to “hr@reserveitbd.com” and the subject of your email should be ‘iOS developer’."
-    },
-    {
-        "job_name" :"Software Engineer Intern",
-        "job_location":"Bengaluru, Karnataka, India On-site ",
-        "job_time":"Internship",
-        "employes": "3000-5000 employes",
-        "job_description":"ClearFeed aims to bridge the gap between multiple tools we use at our workplace and make it a lot easier to deal with them. Our small team is based out of Bangalore and welcoming in nature. We are backed by a leading Venture Capital firm and well-known Angels.",
-        "skills":"Thorough understanding of React.js and its corn.principles.Willingness to learn new frameworks and languages where required.Interest and ability to work across the stack.Familiarity with Server Side Rendering (SSR).Must have good written and oral communication skills, be a fast learner and have the ability to adapt quickly to a fast-paced development environment. "
-    },
-    {
-        "job_name" :"Php Developer",
-        "job_location":"Chittagong Bangladesh",
-        "job_time":" Bangladesh Remote",
-        "employes": "400-00",
-        "job_description":"We offer our Community Builders a wide range of benefits to suit their needs. Opportunity. We have many clients who want more from us than we can currently deliver, which creates a massive opportunity for our community builders. Commission. We are changing the recruitment model and, as part of that, are happy to share more of the pie; we’ll beat your current scheme.  ",
-        "skills":"Strong knowledge of Databases.Understanding how to build applications from an architecture standpoint.Good knowledge of OOP and software design principles.Knowledge of Angular/React would be highly appreciated.Be open-minded to switching between technologies."
-    },
-    {
-        "job_name" :"Front End Developer",
-        "job_location":"Moskot,Oman",
-        "job_time":"Intership",
-        "employes": "10-70 employees",
-        "job_description":"You’ll be part of our Front-end team, where we build the client-side of our web applications by translating UI/UX design wireframes into a user-centric web experience. We advocate for our client's needs and we collaborate with other teams to implement an engaging user interface for our trading platforms.As a Front-end Developer at Deriv, you’ll build powerful front-end systems with an improved user experience for our clients worldwide. You’ll be heavily involved in the design and development phases of our applications as we aim to create the best online trading platform in the industry.",
-        "skills":"html,css,js react js, javascript, Angular,vue"
-    },
-    {
-        "job_name" :"Customer Service Representative",
-        "job_location":"tokeyo,japan",
-        "job_time":"full time",
-        "employes": "30-97 employees",
-        "job_description":"Japanese Customers service in Thailand Responsibilities: Listen to customers' concerns, issues and questions. Resolve customers' concerns and answer customers' questions to your best ability. Maintain a positive attitude and calmly respond to customers' complaints. Open new customer accounts. Details *English requirement : B1 or Above *Working Location: Bangkok , Thailand *CS or Call Center Experience : Good to have , with relevant experience will be a plus (FRESH Graduates / Candidate who willing to join call center industry are WELCOME) *Joining Date : 18th April 2023 *Salary & Benefits:* Base Salary : 50,000 THB – 70,000 THB (Will be finalize after interview session) *KPI Allowance ",
-        "skills":"html,css,js react,Angular,vue"
-    }
-]
+ [
+   {
+    "company_name": "Microsoft",
+    "ceo": "CEO: Satya Nadella ",
+    "Revenue": " Revenue $161 billion",
+    "employes": "No. of Employees: 1,82,268",
+    "description" : "Microsoft is the world s leading and valuble and the most visible IT company, with over $161 billion in revenue in 2022. Microsoft Corporation was founded in 1975 by Bill Gates and Paul Allen in Redmond, Washington, and is one of the worlds largest technology companies.It develops, manufactures, licences, supports, and sells computer software, personal computers, , consumer electronics and related services. The Microsoft Windows operating system, the Microsoft Office suite, and the Internet Explorer, Edge, and Xbox web browsers are among its most well-known software products. Furthermore, the company creates consumer and enterprise software for desktops and servers"
+   },
+   {
+    "company_name": " Hewlett Packard Enterprise (HP)",
+    "ceo": "CEO: Enrique Lores",
+    "Revenue": "Revenue: $63.49 billion",
+    "employes": "No. of Employees: 51,000",
+    "description" : "Hewlett Packard Enterprise is a global technology company that provides IT, technology, and enterprise products, solutions, and services. Based in Palo Alto, California, HP creates and sells hardware components, software, and related services to consumers, small and medium-sized businesses (SMBs), large enterprises, and customers in the government, health, and education sectors. It also offers software solutions such as SAAS software as a service, cloud computing services, education, consulting, and support, among other things. HP is expected to maintain its position as one of the top ten IT companies in the world in the future, owing to strong market performance"
+   },
+   {
+    "company_name": " IBM | One of the top IT companies in the world",
+    "ceo": "CEO: Arvind Krishna",
+    "Revenue": "Revenue: $57.35 billion",
+    "employes": "No. of Employees: 2,82,100",
+    "description" : "IBM, which stands for International Business Machines, is the world’s largest IT services company, with over 300 offices and 2,82,100 employees working in over 177 countries. On June 16, 1911, financial capitalist Charles Ranlett Flint founded the American company, with its headquarters in Armonk, New York, USA.Today, IBM generates revenue through five segments: Cloud & Cognitive Software, Global Technology Services (GTS), Global Business Services (GBS), Global Financing, and Systems. Its GTS division is responsible for providing the best IT services to its customers worldwide. These services include process outsourcing and upkeep of critical client systems and infrastructure. "
+   },
+   {
+    "company_name":"Foresight IT",
+    "description":"We provide world-class services including Digital Marketing, Web design & Development, Software Development, Mobile App Development, Graphic Design & Consulting. We are known as one of the best software companies in the It World. We are recognized as a top IT Company BD. Foresight It has 4 years of experience in this field.To be the global leader in IT Services. Building on our technologies, competencies, and customer interests, and creating value for our stakeholders and customers. In the local market, many small businesses are using our software. The mobile application can be customized as your requirement. Software services of foresight it always try to satisfy our clients.We’ll achieve this by focusing on the intersection of our client’s emerging needs and the acceleration of business and technological change."
+   },
+   {
+    "company_name":" Datasoft Systems BD ltd",
+    "description":"DataSoft Systems Bangladesh Limited is a Reputed IT company in BD.DataSoft Systems Bangladesh Limited is the first software company in Bangladesh to be documented as a CMMI Level 5 Software Development company.Only **377 companies in the world have been perceived as CMMI level 5 companies.Certified as a CMMI level 3 company since 2009, DataSoft has always been ahead of its game in contrast to other local firms.On April 24, 2014, DataSoft started its journey as a CMMI Level 5 company, and with that. it introduced a new era in the IT companies of the Country"
+   },
+   {
+    "company_name":"TigerIT Bangladesh LTD.",
+    "description":"TigerIT provides end-to-end credentials management answers for the govt. and state agencies. It combines progressive solution design, and strong back-end systems with economical project management during a single law officer solution for national IT infrastructure undertakings. software development processes are very tricky and we are experts in them.TigerIT solutions vary from National ID, citizen Registration, e-Passports, Border Control, and driving license to Vehicle registration and tracking. In addition, companies started providing an extremely specialized systems.Integration of third-party hardware/software with heritage systems, together with identity governance, Enterprise Single Sign-On, identity, and access management solutions to giant organizations like banks, telecom companies, and international companies"
+   }
+ ]

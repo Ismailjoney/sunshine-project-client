@@ -1,14 +1,23 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
+import { AuthorContext } from '../context/Context';
 
 const Navbar = () => {
+
+    const{user, logout} = useContext(AuthorContext)
 
     const menubar = <>
         <li><Link to='/'>Home</Link></li>
         <li><Link to='/about'>About</Link></li>
         <li><Link to='/contact'>Contact</Link></li>
-        <li><Link to='/singup'>Sing Up</Link></li>
     </>
+
+
+const handdleLogOut =() => {
+    logout()
+    .then( data => console.log(data))
+    .catch(err => console.log(err));
+}
 
     return (
         <div className="navbar bg-base-100">
@@ -21,7 +30,7 @@ const Navbar = () => {
                          {menubar}
                     </ul>
                 </div>
-                <a className="btn btn-ghost normal-case text-xl">daisyUI</a>
+                <a className="btn btn-ghost normal-case text-xl">jobPoRtaL</a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
@@ -29,7 +38,12 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <a className="btn">Get started</a>
+                 {
+                    user ? 
+                    <button onClick={handdleLogOut}>Log Out</button>
+                    :
+                    <Link to='/login'>Log In</Link>
+                 }
             </div>
         </div>
     );

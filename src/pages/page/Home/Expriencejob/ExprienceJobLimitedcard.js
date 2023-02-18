@@ -1,10 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-const FresherJobPortalAllDataCard = ({ fresherdata }) => {
-    const { job_name, job_time, job_description, job_location, skills, employes } = fresherdata
+const ExprienceJobLimitedcard = ({ data }) => {
+    const { job_name, job_time, job_description, job_location, skills, employes, logo } = data;
+
     return (
         <div className="card lg:card-side bg-base-100 shadow-xl lg:mr-10 lg:ml-10 mt-6">
+            <figure><img className='w-30 h-30  ' src={logo} alt="Movie" /></figure>
             <div className="card-body">
                 <h2 className="card-title">{job_name}</h2>
                 <div className='text-justify'>
@@ -24,4 +26,4 @@ const FresherJobPortalAllDataCard = ({ fresherdata }) => {
     );
 };
 
-export default FresherJobPortalAllDataCard;
+export default ExprienceJobLimitedcard;
